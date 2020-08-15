@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **Coffee over anything!!**
 
-### Blogs posts
+### Tech Stack
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
