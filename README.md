@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pragati Verma</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
-<p align="center">Enthusiastic <a href="https://pragativerma18.github.io/Resume/">full stack web developer</a>, eager to contribute to team success through hard work, attention to detail, and
+<!-- <h1 align="center">Hi 👋, I'm Pragati Verma</h1> -->
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
+<h3 align="center">I'm Pragati Verma</h3>
+<p align="center">Enthusiastic <a href="https://pragativerma18.github.io/Resume/">full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
 
@@ -24,14 +27,34 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragativerma18&show_icons=true" alt="pragativerma18" /></p>
 
-<p align="center">
-<a href="https://codepen.io/pragativerma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pragativerma" height="30" width="30" /></a>
-<a href="https://dev.to/pragativerma18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pragativerma18" height="30" width="30" /></a>
-<a href="https://twitter.com/pragati_verma18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pragati_verma18" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/pragativerma18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pragativerma18" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/10364459" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10364459" height="30" width="30" /></a>
-<a href="https://codesandbox.com/pragativerma18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pragativerma18" height="30" width="30" /></a>
-<a href="https://fb.com/pragati.verma.56863221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pragati.verma.56863221" height="30" width="30" /></a>
-<a href="https://instagram.com/pragativerma18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pragativerma18" height="30" width="30" /></a>
-<a href="https://medium.com/@itispragativerma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@itispragativerma" height="30" width="30" /></a>
-</p>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/PragatiVerma18" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/pragati_verma18" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/pragativerma" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/pragativerma18" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/10364459" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/pragativerma18" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/pragati.verma.56863221" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/pragativerma18" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@itispragativerma" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
