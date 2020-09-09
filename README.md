@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Pragati Verma</h1> -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;" height="300" />
 </div>  
 <h3 align="center">I'm Pragati Verma</h3>
 <p align="center">Enthusiastic <a href="https://pragativerma18.github.io/Resume/">full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
