@@ -1,43 +1,19 @@
-<!-- ### Hi there 👋, I am Pragati 
-
-
-
-**PragatiVerma18/PragatiVerma18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Pragati Verma</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
+<p align="center">Enthusiastic <a href="https://pragativerma18.github.io/Resume/">full stack web developer</a>, eager to contribute to team success through hard work, attention to detail, and
+excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragativerma18" alt="pragativerma18" /> </p>
 
-- 🔭 I’m currently working on [Awsar](https://github.com/PragatiVerma18/SIH)
-
+- 🔭 I’m currently working on [CodeINN](https://github.com/rajat2502/CodeINN)
 - 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on [Snippet Share](https://github.com/PragatiVerma18/Snippet-Share)
-
 - 🤝 I’m looking for help with [Resume Station](https://github.com/PragatiVerma18/Resume-Station)
-
 - 👨‍💻 All of my projects are available at [https://github.com/PragatiVerma18](https://github.com/PragatiVerma18)
-
 - 📝 I regulary write articles on [https://medium.com/@itispragativerma](https://medium.com/@itispragativerma)
-
 - 💬 Ask me about **Django, React & Open Source**
-
 - 📫 How to reach me **itispragativerma@gmail.com**
-
 - ⚡ Fun fact **Coffee over anything!!**
 
 ### Tech Stack
