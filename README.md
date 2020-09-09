@@ -1,5 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Pragati Verma</h1> -->
+<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="500" height="300" />
+<div>
 <h1 align="center">I'm Pragati Verma</h1>
 <p align="center">Enthusiastic <a href="https://pragativerma18.github.io/Resume/">full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
