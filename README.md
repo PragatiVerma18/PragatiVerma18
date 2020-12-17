@@ -9,7 +9,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragativerma18" alt="pragativerma18" /> </p>
 
-- 🔭 I’m currently working on [FellowKoins](https://github.com/MLH-Fellowship/FellowKoins)
+- 🔭 I’m currently working on [StandNote](https://github.com/rajat2502/StandNote)
 - 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on [Snippet Share](https://github.com/PragatiVerma18/Snippet-Share)
 - 🤝 I’m looking for help with [Resume Station](https://github.com/PragatiVerma18/Resume-Station)
