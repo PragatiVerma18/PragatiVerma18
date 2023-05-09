@@ -9,7 +9,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragativerma18" alt="pragativerma18" /> </p>
 
-### Tech Stack
+## 🛠️ Tech Stack
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -18,7 +18,16 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragativerma18&show_icons=true" alt="pragativerma18" /></p>
 
-## Connect with me  
+## 📝 Recent Blog Posts
+
+- [A Guide to the Most Popular Types of APIs: REST, SOAP, GraphQL, and gRPC](https://dev.to/pragativerma18/a-guide-to-the-most-popular-types-of-apis-rest-soap-graphql-and-grpc-4ail)
+- [A Comprehensive Overview of Backend Servers for Django Applications](https://dev.to/pragativerma18/a-comprehensive-overview-of-backend-servers-for-django-applications-208l)
+- [How JWTs Could Be Dangerous and Its Alternatives](https://dev.to/pragativerma18/how-jwts-could-be-dangerous-and-its-alternatives-3k3j)
+- [You're Not Using HTTP Status Codes Right](https://dev.to/pragativerma18/youre-not-using-http-status-codes-right-pc6)
+
+---
+
+## 💬 Connect with me  
 <div align="center">
 <a href="https://github.com/PragatiVerma18" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
