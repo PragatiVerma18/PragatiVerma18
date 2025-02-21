@@ -24,6 +24,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 - [A Comprehensive Overview of Backend Servers for Django Applications](https://dev.to/pragativerma18/a-comprehensive-overview-of-backend-servers-for-django-applications-208l)
 - [How JWTs Could Be Dangerous and Its Alternatives](https://dev.to/pragativerma18/how-jwts-could-be-dangerous-and-its-alternatives-3k3j)
 - [You're Not Using HTTP Status Codes Right](https://dev.to/pragativerma18/youre-not-using-http-status-codes-right-pc6)
+- [Mastering Apache Kafka: Powering Modern Data Pipelines](https://dev.to/pragativerma18/mastering-apache-kafka-powering-modern-data-pipelines-5ebh)
 
 ---
 
